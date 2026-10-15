@@ -1,5 +1,5 @@
-# Lilt
+# KojimaYutaro.github.io
 
-iPhone の家計簿アプリ「Lilt」のランディングページ。https://kojimayutaro.github.io/
+Lilt のランディングページは https://liltapp.github.io/ に移った（このリポジトリのトップページはそこへ転送するだけ）。
 
-静的ファイルのみ（GitHub Pages で配信）。元データと生成スクリプトはアプリのリポジトリ側の `lp/build.py` にある。
+このアカウントの下のプロジェクトサイト（/lilt-privacy-policy/、/lilt-public-pages/）は、公開中のアプリが URL を直接使っているので、そのまま残す。
