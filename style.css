@@ -31,6 +31,8 @@ em { font-style: normal; color: var(--lime); }
 .center { text-align: center; }
 .sp { display: none; }
 .nw { white-space: nowrap; }
+.ph { display: inline-block; }
+.lead b { font-weight: 800; color: #fff; }
 
 /* ---------------------------------------------------------------- type */
 h1, h2 {
